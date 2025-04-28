@@ -8,4 +8,4 @@ If you bought a generic USB to HDMI converter but can't get the driver, this dri
 So I created this repo and uploaded the one I found. It is virus-free. Shout out to [Virus Total](https://www.virustotal.com/gui/home/upload) for testing it. Cheers.
 
 ## Update:
-If you use Linux here is a link to a driver that might work for you - [Linux](https://github.com/rhgndf/ms912x). NB: It is buggy but it is not too bad. If you want a flawless performance you can improve the build or purchase a high-end adapter.
+If you use Linux here is a link to a driver that might work for you - [Linux](https://github.com/rhgndf/ms912x). NB: It is buggy but it is not too bad. If you want flawless performance you can improve the build or purchase a high-end adapter.
